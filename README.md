@@ -18,7 +18,7 @@ The project is organized as follows:
 
 Here's a glimpse of the personal portfolio page:
 
-![Personal Portfolio Preview](link_to_your_preview_image)
+![Personal Portfolio Preview](https://github.com/krushnarout/Personal-Portfolio/assets/129386740/85b305d0-e014-4836-af6d-9decf2e19758)
 
 ## Resources
 
